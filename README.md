@@ -15,3 +15,22 @@ I'm currently learning Android development and GitHub.
 - XML
 - Problem Solving
 -->
+# My Developer Portfolio
+
+## 👋 About Me
+
+Hi! I'm John Denver.
+I'm currently learning Git, GitHub, Android Studio, and mobile app development.
+
+---
+
+## 🚀 Skills
+
+- Git
+- GitHub
+- Java
+- Android Studio
+- VS Code
+
+---
+
