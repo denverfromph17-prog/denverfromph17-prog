@@ -19,7 +19,7 @@ I'm currently learning Android development and GitHub.
 
 ## 👋 About Me
 
-Hi! I'm John Denver.
+Hi! I'm Zak.
 I'm currently learning Git, GitHub, Android Studio, and mobile app development.
 
 ---
